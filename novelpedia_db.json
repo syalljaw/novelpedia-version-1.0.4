@@ -1,0 +1,141 @@
+{
+  "novels": [
+    {
+      "id": "novel_1234567890",
+      "title": "Kisah Penjelajah Waktu",
+      "synopsis": "Seorang penjelajah waktu yang terjebak di era retro, mencoba mencari jalan pulang tanpa merusak alur sejarah.",
+      "author": "irsyalfaiz97@gmail.com",
+      "authorUsername": "irsyalfaiz97",
+      "genre": "Sci-Fi",
+      "genres": [
+        "Sci-Fi",
+        "Mystery"
+      ],
+      "status": "ongoing",
+      "updateDays": [
+        "Setiap Hari"
+      ],
+      "coverUrl": "https://picsum.photos/seed/Kisah%20Penjelajah%20Waktu/450/800",
+      "rating": 5,
+      "bannerColor": "from-purple-900 to-indigo-950",
+      "chaptersCount": 5,
+      "isFlagged": false,
+      "isBypassed": false,
+      "createdAt": "2026-06-23",
+      "priceCoins": 0
+    },
+    {
+      "id": "novel_karya_1",
+      "title": "Legenda Pedang Naga Merah",
+      "synopsis": "Seorang pemuda menemukan kekuatan tersembunyi yang akan mengguncangkan benua, namun ia harus menghadapi takdir berdarah.",
+      "author": "irsyalfaiz97@gmail.com",
+      "authorUsername": "irsyalfaiz97",
+      "genre": "Fantasy",
+      "genres": [
+        "Fantasy",
+        "Action"
+      ],
+      "status": "ongoing",
+      "updateDays": [
+        "Senin", "Kamis"
+      ],
+      "coverUrl": "https://picsum.photos/seed/LegendaNaga/450/800",
+      "rating": 5,
+      "bannerColor": "from-red-950 to-slate-900",
+      "chaptersCount": 0,
+      "isFlagged": false,
+      "isBypassed": false,
+      "createdAt": "2026-06-23",
+      "priceCoins": 0
+    },
+    {
+      "id": "novel_karya_2",
+      "title": "Cinta di Langit Senja",
+      "synopsis": "Dua insan yang terpisah oleh waktu dan takdir, berusaha menemukan jalan kembali melalui secercah ingatan.",
+      "author": "irsyalfaiz97@gmail.com",
+      "authorUsername": "irsyalfaiz97",
+      "genre": "Romance",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "status": "selesai",
+      "updateDays": [
+        "Setiap Hari"
+      ],
+      "coverUrl": "https://picsum.photos/seed/CintaSenja/450/800",
+      "rating": 4.8,
+      "bannerColor": "from-pink-950 to-purple-900",
+      "chaptersCount": 0,
+      "isFlagged": false,
+      "isBypassed": false,
+      "createdAt": "2026-06-23",
+      "priceCoins": 0
+    }
+  ],
+  "chapters": [],
+  "comments": [],
+  "proofreads": [],
+  "wallets": [
+    {
+      "email": "irsyalfaiz97@gmail.com",
+      "coins": 150,
+      "revenueExp": 1450000,
+      "isAdmin": true
+    },
+    {
+      "email": "fajar.sastra@yahoo.com",
+      "coins": 340,
+      "revenueExp": 450000,
+      "isAdmin": false
+    },
+    {
+      "email": "arsy.novelist@cyber.net",
+      "coins": 80,
+      "revenueExp": 1200000,
+      "isAdmin": false
+    }
+  ],
+  "withdrawals": [
+    {
+      "id": "w_1",
+      "email": "fajar.sastra@yahoo.com",
+      "bankName": "BANK CENTRAL ASIA (BCA)",
+      "bankAccount": "88201294811",
+      "accountHolder": "FAJAR JAYA SASTRA",
+      "amount": 450000,
+      "status": "pending",
+      "createdAt": "2026-06-23T12:52:52.401Z"
+    },
+    {
+      "id": "w_2",
+      "email": "arsy.novelist@cyber.net",
+      "bankName": "BANK MANDIRI",
+      "bankAccount": "12000554529",
+      "accountHolder": "ARSY PENA UTAMA",
+      "amount": 1200000,
+      "status": "pending",
+      "createdAt": "2026-06-23T12:52:52.401Z"
+    }
+  ],
+  "systemLogs": [
+    "[SYSTEM INIT] Portal Novelpedia modern booted online.",
+    "[SYSTEM] Database initialized. Waiting for Indie Authors to register novels."
+  ],
+  "announcements": [
+    {
+      "id": "a_1",
+      "title": "🎉 Selamat Datang di Portal Novelpedia Retro v2.0!",
+      "content": "Kami menghadirkan pemutakhiran total! Bab berbayar kini ditiadakan (bebas baca gratis), dan digantikan sistem keanggotaan Premium dengan lencana biru, kustomisasi judul pena, hilangkan iklan pembaca, serta hak istimewa promosi novel Trending bagi novelis.",
+      "createdAt": "2026-06-23T12:52:52.401Z",
+      "type": "info"
+    },
+    {
+      "id": "a_2",
+      "title": "📈 Novelis Premium: Kampanye Top Trending Diaktifkan!",
+      "content": "Penulis dengan keanggotaan Premium kini dapat menandai novel mereka untuk diajukan ke jajaran utama Top Trending Beranda! Klik tingkatkan akun untuk meluncurkan karya luar biasa Anda.",
+      "createdAt": "2026-06-23T12:52:52.401Z",
+      "type": "update"
+    }
+  ]
+}
